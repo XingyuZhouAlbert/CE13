@@ -1,0 +1,7 @@
+My name is Xingyu Zhou and I work with my own.
+
+This lab for me it¡¯s a failure. I can¡¯t even finish the rpn calculator on time, or more precisely, I don¡¯t even know how to start. This will be the very first unfinished assignment in my whole university life, and it might be the end of my programming career. I might need to switch to a new major now.
+
+As always I started by reading lab manual and required readings. I was not so sure about how struct work at first and TA MaxL really helped me a lot. Once I understood how struct works I was able to finish the test code. I don¡¯t think I will do this lab again since I can¡¯t even finish it for the first time. I really want to start early but I have another mandatory section on Friday that starts at the same time as the lab. So going to lab sections on Monday is the only choice I have left.
+
+As I mentioned above, I ended up finishing half of the lab. It¡¯s not that I didn¡¯t want to do it. I spent basically 3 hours on the rpn.c in the lab section and only managed to come up with 6 lines of code. This is when I knew I was done. For this lab I would say more than 40 hours. I think this is indeed a worthwhile lab even though I can¡¯t finish it. The hardest part would be the rpn calculator. To be honest, I understand how it works but I just don¡¯t know how to implement it in C. The lab manual was ok but I also had to look up information such as example online.

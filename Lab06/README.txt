@@ -1,0 +1,4 @@
+	My name is Xingyu Zhou and for this lab I finally got a partner. I worked with Mingyu Ding on part3 of this lab.
+	I think it¡¯s important to know how ISR works since it is something that bothers me a lot when I¡¯m writing this code¡ªI didn¡¯t know what it was at first and it was difficult for me to implement something that I don¡¯t know.
+	As always I started by reading books and lab manuals and then went to lab sections to get help. My part 3 went wrong and I just couldn¡¯t find a way to fix it. Only part 1 and part2 worked well. I don¡¯t want to do it again.
+	Result is that I didn¡¯t finish part3 and I don¡¯t even implement the test code. I spent more than 20 hours on it I just don¡¯t get it why we have to write a formal test code every time. I don¡¯t like that I can¡¯t finish it. part 3 is the hardest part. More teaching on the lab such as more examples like lab5 will help a lot.
